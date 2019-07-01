@@ -11,6 +11,7 @@
 
 @snap[west span-50]
 ## Customize the Layout
+- Like this bullet point
 @snapend
 
 @snap[east span-50]
